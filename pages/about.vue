@@ -5,7 +5,7 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto doloribus optio amet a? Iusto nihil ratione similique eaque, assumenda ab?</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto doloribus optio amet a? Iusto nihil ratione similique eaque, assumenda ab?</p>
         
-        <!-- <h3>Data Retrieved from CurrencyAPI:</h3> -->
+        <h3>Data Retrieved from CurrencyAPI:</h3>
         <div>{{ data }}</div>
     </div>
 </template>
